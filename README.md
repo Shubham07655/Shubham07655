@@ -40,7 +40,7 @@ Currently working on improving my **React, Backend Development, and System Desig
 📈 Regular practice of **Medium & Hard interview problems**
 
 🔗 **LeetCode Profile**  
-[LeetCode](https://leetcode.com/)
+[LeetCode](https://leetcode.com/shubham_05_02)
 
 ---
 
