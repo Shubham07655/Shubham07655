@@ -1,16 +1,98 @@
-## Hi there 👋
+# 👨‍💻 About Me
 
-<!--
-**Shubham07655/Shubham07655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Third Year IT Student & Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I am a passionate developer with strong interest in **Web Development, Backend Systems, and Data Structures & Algorithms**.  
+I enjoy building real-world applications using **Node.js, JavaScript, and modern frontend technologies** while continuously improving my **problem-solving skills through DSA practice**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I focus on writing **clean, maintainable, and efficient code** and enjoy solving complex programming challenges.  
+Currently working on improving my **React, Backend Development, and System Design fundamentals** while preparing for **software engineering internships**.
+
+---
+
+# 🎯 Areas of Interest
+
+- **Frontend Development** (React, JavaScript)
+- **Backend Development** (Node.js, Express)
+- **REST APIs & Web Applications**
+- **Data Structures & Algorithms**
+- **System Design (Basics)**
+
+---
+
+# 🧠 DSA & Competitive Programming
+
+🔥 **Solved 400+ LeetCode Problems**
+
+🏆 Strong understanding of:
+
+- Arrays
+- Strings
+- Recursion
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+
+⚡ Comfortable with **Time & Space Complexity Analysis**
+
+📈 Regular practice of **Medium & Hard interview problems**
+
+🔗 **LeetCode Profile**  
+[LeetCode](https://leetcode.com/)
+
+---
+
+# 🏆 Achievements
+
+✅ **400+ Problems Solved on LeetCode**
+
+🟢 Consistent problem-solving practice
+
+🧩 Interview-focused DSA preparation
+
+⚡ *"Code. Debug. Improve. Repeat."*
+
+---
+
+# 🌐 Socials
+
+📧 Email: **shubhameeramagya@gmail.com**
+
+💼 LinkedIn: *https://www.linkedin.com/in/shubhamyadav3009/*
+
+🧠 LeetCode: *[https://leetcode.com/u/shubham_05_02](https://leetcode.com/u/shubham_05_02/)*
+
+---
+
+# 💻 Tech Stack
+
+**Languages**
+
+- Java
+- JavaScript
+- C
+
+**Frontend**
+
+- HTML
+- CSS
+- React
+- Tailwind CSS
+
+**Backend**
+
+- Node.js
+- Express.js
+- REST APIs
+
+**Database**
+
+- MySQL
+
+**Tools**
+
+- Git
+- GitHub
+- Postman
