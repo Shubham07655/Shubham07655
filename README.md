@@ -1,98 +1,149 @@
 # 👨‍💻 About Me
 
-🚀 **Third Year IT Student & Aspiring Software Developer**
+🚀 ** 4th year Software Engineering Student | Java Backend Developer | DSA Enthusiast**
 
-I am a passionate developer with strong interest in **Web Development, Backend Systems, and Data Structures & Algorithms**.  
-I enjoy building real-world applications using **Node.js, JavaScript, and modern frontend technologies** while continuously improving my **problem-solving skills through DSA practice**.
+I am a passionate software developer with a strong interest in **Backend Development, Software Engineering, and Data Structures & Algorithms**. I enjoy building scalable web applications using **Java, Spring Boot, React, PostgreSQL, and modern development tools** while continuously improving my problem-solving and analytical skills.
 
-💡 I focus on writing **clean, maintainable, and efficient code** and enjoy solving complex programming challenges.  
-Currently working on improving my **React, Backend Development, and System Design fundamentals** while preparing for **software engineering internships**.
+💡 My primary focus is on writing clean, maintainable, and efficient code while developing real-world applications that solve practical problems. I am actively strengthening my knowledge of **Spring Boot, REST APIs, Database Design, System Design Fundamentals, and Backend Architecture**.
+
+I have solved **600+ LeetCode problems** and **800+ DSA problems across various platforms**, which has helped me develop strong problem-solving abilities and a solid understanding of algorithms and data structures commonly used in software engineering interviews.
 
 ---
 
 # 🎯 Areas of Interest
 
-- **Frontend Development** (React, JavaScript)
-- **Backend Development** (Node.js, Express)
-- **REST APIs & Web Applications**
-- **Data Structures & Algorithms**
-- **System Design (Basics)**
+* Backend Development (Spring Boot)
+* REST API Development
+* Software Engineering
+* Database Design & Management
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* System Design Fundamentals
+* Full Stack Web Development
 
 ---
 
-# 🧠 DSA & Competitive Programming
+# 🧠 DSA & Problem Solving
 
-🔥 **Solved 400+ LeetCode Problems**
+🔥 **600+ Problems Solved on LeetCode**
 
-🏆 Strong understanding of:
+🏆 **800+ DSA Problems Solved Across Multiple Platforms**
 
-- Arrays
-- Strings
-- Recursion
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
+Strong understanding of:
 
-⚡ Comfortable with **Time & Space Complexity Analysis**
+* Arrays
+* Strings
+* Linked Lists
+* Stacks
+* Queues
+* Hashing
+* Recursion & Backtracking
+* Trees & Binary Trees
+* Binary Search Trees
+* Heaps & Priority Queues
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
+* Sliding Window
+* Two Pointers
+* Tries
+* Bit Manipulation
 
-📈 Regular practice of **Medium & Hard interview problems**
+⚡ Strong grasp of Time and Space Complexity Analysis
 
-🔗 **LeetCode Profile**  
-[LeetCode](https://leetcode.com/shubham_05_02)
+📈 Regular practice of Medium and Hard Interview Problems
+
+🔗 LeetCode Profile:
+https://leetcode.com/u/shubham_05_02/
 
 ---
 
 # 🏆 Achievements
 
-✅ **400+ Problems Solved on LeetCode**
+✅ Solved 600+ Problems on LeetCode
 
-🟢 Consistent problem-solving practice
+✅ Solved 800+ DSA Problems Across Multiple Coding Platforms
 
-🧩 Interview-focused DSA preparation
+✅ Developed Full-Stack Web Applications Using Spring Boot and React
 
-⚡ *"Code. Debug. Improve. Repeat."*
+✅ Strong Foundation in Data Structures, Algorithms, and Object-Oriented Programming
+
+✅ Consistent Competitive Programming and Interview Preparation
+
+⚡ *"Code. Learn. Improve. Repeat."*
 
 ---
 
-# 🌐 Socials
+# 🌐 Connect With Me
 
-📧 Email: **shubhameeramagya@gmail.com**
+📧 Email:
+[shubhameeramagya@gmail.com](mailto:shubhameeramagya@gmail.com)
 
-💼 LinkedIn: *https://www.linkedin.com/in/shubhamyadav3009/*
+💼 LinkedIn:
+https://www.linkedin.com/in/shubhamyadav3009/
 
-🧠 LeetCode: *[https://leetcode.com/u/shubham_05_02](https://leetcode.com/u/shubham_05_02/)*
+🧠 LeetCode:
+https://leetcode.com/u/shubham_05_02/
+
+🐙 GitHub:
+https://github.com/shubham07655
 
 ---
 
 # 💻 Tech Stack
 
-**Languages**
+## Languages
 
-- Java
-- JavaScript
-- C
+* Java
+* C
+* C++
+* Python
+* JavaScript
 
-**Frontend**
+## Backend
 
-- HTML
-- CSS
-- React
-- Tailwind CSS
+* Spring Boot
+* Spring Security
+* JWT Authentication
+* Hibernate
+* Spring Data JPA
+* REST APIs
 
-**Backend**
+## Frontend
 
-- Node.js
-- Express.js
-- REST APIs
+* React.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* JavaScript
 
-**Database**
+## Database
 
-- MySQL
+* PostgreSQL
+* MySQL
 
-**Tools**
+## Tools & Technologies
 
-- Git
-- GitHub
-- Postman
+* Git
+* GitHub
+* Maven
+* Postman
+* IntelliJ IDEA
+* VS Code
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Spring Boot Concepts
+* System Design Fundamentals
+* Design Patterns
+* Database Optimization
+* Scalable Backend Architecture
+* Cloud & Deployment Basics
+
+---
+
+### Profile Summary
+
+Passionate Software Engineering student with strong expertise in Java, Spring Boot, and Data Structures & Algorithms. Experienced in developing full-stack web applications and solving complex algorithmic problems. Actively seeking opportunities to contribute, learn, and grow as a Software Engineer.
