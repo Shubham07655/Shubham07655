@@ -1,6 +1,7 @@
 # 👨‍💻 About Me
 
-🚀 ** 4th year Software Engineering Student | Java Backend Developer | DSA Enthusiast**
+🚀 **Final Year Software Engineering Student | Java Backend Developer | DSA Enthusiast**
+
 
 I am a passionate software developer with a strong interest in **Backend Development, Software Engineering, and Data Structures & Algorithms**. I enjoy building scalable web applications using **Java, Spring Boot, React, PostgreSQL, and modern development tools** while continuously improving my problem-solving and analytical skills.
 
